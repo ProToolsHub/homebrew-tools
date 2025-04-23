@@ -1,7 +1,7 @@
 class AcseoCommit < Formula
     desc "Outil de génération de messages de commit selon la convention ACSEO"
     homepage "https://github.com/ProToolsHub/ACSEO-COMMIT"
-    url "https://github.com/ProToolsHub/ACSEO-COMMIT/releases/download/v1.0.0/acseo-commit-1.0.0.tar.gz"
+    url "https://raw.githubusercontent.com/ProToolsHub/homebrew-tools/main/archives/acseo-commit-1.0.0.tar.gz"
     sha256 "885ad58bb16bd92c5d23797dbcb06589012a65032d018827d09bf57b9931308e"
     license "MIT"
   
